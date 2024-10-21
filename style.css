@@ -19,14 +19,6 @@ html , body{
     position: relative;
 }
 
-.mini-box{
-    height: 70vh;
-    width: 24vw;
-    border-radius: 10px;
-    background-color: rgba(64, 132, 220, 0.716);
-    z-index: 0;
-    position: absolute;
-}
 
 .calc{
     background-color: #131212dc;
@@ -42,7 +34,7 @@ html , body{
     font-size: 20px;
     padding: 15px;
     border-radius: 4px;
-    background-color: transparent;
+    background-color: #131212dc;
     box-shadow: -1px -1px 16px rgba(255, 255, 255, 0.13), 8px 8px 16px rgba(0, 0, 0, 0.2);
     cursor: pointer;
     margin: 12px;
